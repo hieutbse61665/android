@@ -26,7 +26,6 @@
 
         <activity android:name=".Home" />
         <activity android:name=".News" />
-        <activity android:name=".AddNews"></activity>
     </application>
 
 </manifest>

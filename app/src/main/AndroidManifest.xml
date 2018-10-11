@@ -9,9 +9,6 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-
-
-
         <activity android:name=".Login">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -25,7 +22,13 @@
             android:resource="@array/preloaded_fonts" />
 
         <activity android:name=".Home" />
-        <activity android:name=".News" />
+        <activity android:name=".Albums" />
+        <activity android:name=".AddAlbum" />
+        <activity android:name=".Tasks" />
+        <activity
+            android:name=".AddAlbums"
+            android:label="@string/title_activity_add_albums"
+            android:theme="@style/AppTheme"></activity>
     </application>
 
 </manifest>

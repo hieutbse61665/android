@@ -28,7 +28,8 @@
         <activity
             android:name=".AddAlbums"
             android:label="@string/title_activity_add_albums"
-            android:theme="@style/AppTheme"></activity>
+            android:theme="@style/AppTheme" />
+        <activity android:name=".TaskDetail"></activity>
     </application>
 
 </manifest>

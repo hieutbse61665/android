@@ -85,7 +85,7 @@
                 android:fontFamily="@font/asap_medium"
                 android:text="Location"
                 android:textColor="@android:color/background_dark"
-                android:textSize="10sp"
+                android:textSize="15sp"
                 app:layout_constraintBottom_toTopOf="@+id/editText7"
                 app:layout_constraintStart_toStartOf="@+id/imageView21" />
 
@@ -106,7 +106,7 @@
                 android:layout_marginBottom="8dp"
                 android:layout_marginStart="12dp"
                 android:fontFamily="@font/asap_medium"
-                android:text="20/11/2018"
+                android:text="15/10/2018"
                 app:layout_constraintBottom_toBottomOf="@+id/imageView22"
                 app:layout_constraintStart_toStartOf="@+id/imageView22" />
 
@@ -117,7 +117,7 @@
                 android:layout_marginBottom="24dp"
                 android:layout_marginStart="12dp"
                 android:fontFamily="@font/asap_medium"
-                android:text="Task's end date"
+                android:text="Task Date"
                 android:textColor="@android:color/background_dark"
                 android:textSize="15sp"
                 app:layout_constraintBottom_toTopOf="@+id/editText8"
@@ -151,7 +151,7 @@
                 android:layout_marginBottom="24dp"
                 android:layout_marginStart="12dp"
                 android:fontFamily="@font/asap_medium"
-                android:text="Publisher's task"
+                android:text="Publisher"
                 android:textColor="@android:color/background_dark"
                 android:textSize="15sp"
                 app:layout_constraintBottom_toTopOf="@+id/editText6"
@@ -190,7 +190,7 @@
                 android:fontFamily="@font/asap_medium"
                 android:text="Task Title"
                 android:textColor="@android:color/background_dark"
-                android:textSize="10sp"
+                android:textSize="15sp"
                 app:layout_constraintBottom_toTopOf="@+id/editText3"
                 app:layout_constraintStart_toStartOf="@+id/imageView17" />
 
